@@ -1,6 +1,6 @@
 {
   "name": "weixin-robot",
-  "version": "0.5.9",
+  "version": "0.1.0",
   "repository": "git://github.com/qaz3954179/weixin-robot.git",
   "description": "微信公众平台开放消息接口机器人 A robot for wechat.",
   "author": "Jesse Yang <kissmud@gmail.com> (https://github.com/ktmud)",
